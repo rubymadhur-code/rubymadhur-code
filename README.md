@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/ruby-madhur-563201250" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-   <a href="mailto:madhurruby@gmail.com">
+   <a href="mailto:madhurruby09@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=rubymadhur-code&label=Profile%20views&color=0e75b6&style=flat" alt="rubymadhur-code" />
@@ -53,7 +53,7 @@
 ### 🔗 Connect with Me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/ruby-madhur-563201250)
-- 📧 [Email](mailto:madhurruby@gmail.com)
+- 📧 [Email](mailto:madhurruby09@gmail.com)
 - 📫 You can also reach me via GitHub messages.
 
 ---
