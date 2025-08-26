@@ -64,7 +64,6 @@
 
 ### 🔗 Connect with Me
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/ruby-madhur-563201250)
 - 📧 [Email](mailto:madhurruby09@gmail.com)
 - 📫 You can also reach me via GitHub messages.
 
