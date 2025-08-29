@@ -50,17 +50,6 @@
 - Next.js for modern React apps
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rubymadhur-code&show_icons=true&locale=en&theme=tokyonight" alt="GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rubymadhur-code&theme=tokyonight" alt="GitHub streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubymadhur-code&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 ### 🔗 Connect with Me
 
