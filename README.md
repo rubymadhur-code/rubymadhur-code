@@ -1,7 +1,6 @@
 # Hi, I'm Ruby Madhur 👋  
 
-💻 **Software Engineer (Web)** | 🚀 Full Stack Developer (in progress)  
-🌱 Currently learning **Angular** → Next: **MERN Stack**  
+💻 **Software Engineer (Web)** | 🚀 Full Stack Developer (in progress)   
 
 🚀 Turning ideas into real-world web applications with clean, scalable, and efficient code.  
 
