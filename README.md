@@ -41,6 +41,7 @@ Here are some of my highlighted works:
 ### 🔹 JavaScript Mini Projects  
 - Collection of small projects focused on core JavaScript concepts  
 - 💻 Code: https://github.com/rubymadhur-code/javascript-mini-projects
+- 💻 Live Demo: [https://github.com/rubymadhur-code/javascript-mini-projects](https://rubymadhur-code.github.io/javascript-mini-projects/)
 
 👉 Explore all my projects here:  
 https://github.com/rubymadhur-code?tab=repositories  
